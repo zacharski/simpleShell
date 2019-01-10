@@ -6,7 +6,7 @@ The purpose of this assignment is to become more familiar with the concepts of p
 In order to prepare for this lab (and to make it seem not so overwhelming) you should:
 
 * read the chapters of our textbook dealing with processes.
-* work through [How to Signal a Process](https://people.kth.se/~johanmon/ose/assignments/signals.pdf)
+* work through [Signal Lab](https://github.com/zacharski/cpsc405/blob/master/signalLab.md)
 * reading [sections 3 and 4 of chapter 8 of Bryant and O'Hallron](http://zacharski.org/files/courses/cs405/computerSystemsCh8.pdf) before you write any code will be extremely helpful.
 					
 ## Logistics
@@ -24,7 +24,7 @@ We provide a github repository that contains a template for your program along w
 
 • Type the command make to compile and link some test routines.
 • Type your team member names, (ignore eids) at the top of the file SUBMIT.
-					
+					 
 Looking at the `tsh.c` (tiny shell) file, you will see that it contains a functional skeleton of a simple Unix shell. To help you get started, we have already implemented the less interesting functions. Your assignment is to complete the remaining empty functions listed below. 
 
 **You need to write less than 300 lines of code!** 
